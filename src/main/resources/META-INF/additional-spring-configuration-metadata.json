@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "name",
+      "type": "java.lang.String",
+      "description": "Description for name."
+    },
+    {
+      "name": "desc",
+      "type": "java.lang.String",
+      "description": "Description for desc."
+    },
+    {
+      "name": "spring.datasource.testOnReturn",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.testOnReturn."
+    }
+  ] }
